@@ -1,0 +1,10 @@
+class Song 
+
+    attr_accessor :title, :artist
+end 
+
+# Song
+#   has a title
+#   belongs to an artist
+#   knows the name of the artist it belongs to
+
